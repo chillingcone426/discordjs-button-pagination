@@ -30,24 +30,24 @@ const paginationEmbed = require('discordjs-button-pagination-v2');
 
 // Use MessageEmbed to make pages
 // Keep in mind that Embeds should't have their footers set since the pagination method sets page info there
-const { MessageEmbed , MessageButton} = require('discord.js');
-const embed1 = new MessageEmbed()
+const { EmbedBuilder , ButtonBuilder, ButtonStyle} = require('discord.js');
+const embed1 = new EmbedBuilder()
                 .setTitle('First Page')
                 .setDescription('This is the first page');
 
-const embed2 = new MessageEmbed()
+const embed2 = new EmbedBuilder()
                 .setTitle('Second Page')
                 .setDescription('This is the second page');
 
-const button1 = new MessageButton()
+const button1 = new ButtonBuilder()
                 .setCustomId('previousbtn')
                 .setLabel('Previous')
-                .setStyle('DANGER');
+                .setStyle(ButtonStyle.Danger);
 
-const button2 = new MessageButton()
+const button2 = new ButtonBuilder()
                 .setCustomId('nextbtn')
                 .setLabel('Next')
-                .setStyle('SUCCESS');
+                .setStyle(ButtonStyle.Success);
 
 // Create an array of embeds
 pages = [
