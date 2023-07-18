@@ -2,8 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://www.npmjs.com/package/discordjs-button-pagination-v2
-/"><img src="https://nodei.co/npm/discordjs-button-pagination-v2.png?downloads=true&stars=true" alt="NPM info" /></a>
+    <a href="https://www.npmjs.com/package/discordjs-button-pagination-v2/"><img src="https://nodei.co/npm/discordjs-button-pagination-v2.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
 
