@@ -17,13 +17,8 @@ for slash command interaction.
 ## `discordjs-button-pagination@msg`
 for message command.
 # Installation
-For `message` event
-* `npm install discordjs-button-pagination@msg`
 
-For `interaction` event
-* `npm install discordjs-button-pagination@interaction`
-
-## Default command: `npm install discordjs-button-pagination` will install the **`interaction`** version
+## Default command: `npm install discordjs-button-pagination-v2` will install the **`interaction`** version
 
 # Requirements
 Node.js 16.6.1 or newer is required along with Discord.js 13.0.0 or newer.
