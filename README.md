@@ -2,8 +2,8 @@
 
 <div align="center">
   <p>
-    <a href="https://npmjs.com/package/discordjs-button-pagination
-/"><img src="https://nodei.co/npm/discordjs-button-pagination.png?downloads=true&stars=true" alt="NPM info" /></a>
+    <a href="https://www.npmjs.com/package/discordjs-button-pagination-v2
+/"><img src="https://nodei.co/npm/discordjs-button-pagination-v2.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
 
@@ -104,5 +104,5 @@ Disabled Buttons after collector end
 
 
 
-### For any issues or suggestions, kindly open an issue/pull request on the [**GitHub Repository**](https://github.com/ryzyx/discordjs-button-pagination)
+### For any issues or suggestions, kindly open an issue/pull request on the [**GitHub Repository**](https://github.com/chillingcone426/discordjs-button-pagination)
 
