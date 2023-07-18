@@ -6,12 +6,12 @@
   </p>
 </div>
 
-# discordjs-button-pagination
+# discordjs-button-pagination-v2
 A simple package to paginate discord embeds via discord buttons introduced in [discord.js v13](https://github.com/discordjs/discord.js/tree/master).
 
 # Versions
 
-## `discordjs-button-pagination@interaction` [Default]
+## `discordjs-button-pagination-v2@interaction` [Default]
 for slash command interaction.
 
 # Installation
@@ -26,7 +26,7 @@ Node.js 16.6.1 or newer is required along with Discord.js 13.0.0 or newer.
 __Basic Bot Example__
 ```js
 // Import the discordjs-button-pagination package
-const paginationEmbed = require('discordjs-button-pagination');
+const paginationEmbed = require('discordjs-button-pagination-v2');
 
 // Use MessageEmbed to make pages
 // Keep in mind that Embeds should't have their footers set since the pagination method sets page info there
